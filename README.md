@@ -9,6 +9,12 @@ A simple weather application built with HTML, CSS, and vanilla JavaScript that s
 - Shows a condition icon fetched directly from the API response.  
 - Handles invalid city names and API errors with a user‑friendly message.
 
+## Screenshots
+
+<img width="486" height="498" alt="Capture" src="https://github.com/user-attachments/assets/a15e6895-9ea9-4971-baa7-c14dbc015031" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/6cc0814c-759a-4aa4-bdf0-8d49679aa41c" />
+
+
 ### Tech Stack
 
 - HTML for structure  
